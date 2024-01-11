@@ -15,7 +15,11 @@ Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligato
 
 
 ## Kursbeskrivelse 
+Kurset skal gi en innføring i grunnleggende makroøkonomi. Karakteren fastsettes gjennom en mappeevaluering. Gjennomføringen av emnet er 
 
+- 11 forelesninger
+- 8 seminarer
+- Mappe evaluering 
 
 
 ## Faglærerinfo  
@@ -70,5 +74,4 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:
 
 ## Innlevering og eksamen  
 
-**KOMMER** 
-
+Eksamen består av mappe evaluering. Dette betyr at karakteren blir bedømt av flere innleveringer/mapper iløpet av semesteret.
