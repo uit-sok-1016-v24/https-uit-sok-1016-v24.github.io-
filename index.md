@@ -32,9 +32,30 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 ## Pensum  
 
 ### Pensum til forelesningene
-Dette emnet bruker samme pensum som sok-1010. 
-Makroøkonomi av Steinar Holdern
 
+Tittel: Makroøkonomi
+Forfatter: Holden, Steinar
+ISBN: 978-82-02-47409-6
+Utgivelsesår: 2020
+Utgiver: Cappelen Damm akademisk
+
+
+Makroøkonomi : Oppgaver og løsningsforslag
+Forfatter: Holden, Steinar
+ISBN: 978-82-02-50007-8
+Utgivelsesår: 2016
+Bidragsyter/medforfatter: Krogh, Tord S. H.; Prestmo, Joakim; Keeping, David
+Utgiver: Cappelen Damm akademisk
+
+
+Støttelitteratur: 
+Title: Formler og tabeller for økonomistudenter : matematikk, statistikk, bedriftsøkonomi, samfunnsøkonomi
+Author: Kristensen, Ørjan; Gressnes, Thomas; Trøite, Roger
+ISBN: 9788245032925
+Edition: 1. utgave
+
+
+Dette emnet bruker samme pensum som sok-1010. 
 
 [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
 
