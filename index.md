@@ -13,6 +13,8 @@ Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligato
 
 [Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
 
+Universitetets egne kursbeskrivelse finner du på UiT sin hjemme side link [her](https://uit.no/utdanning/aktivt/emne/SOK-1016).
+
 
 ## Kursbeskrivelse 
 Kurset skal gi en innføring i grunnleggende makroøkonomi. Karakteren fastsettes gjennom en mappeevaluering. Gjennomføringen av emnet er 
