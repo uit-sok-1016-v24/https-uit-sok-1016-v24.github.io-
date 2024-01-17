@@ -62,7 +62,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 **Edition:** 1. utgave
 
 
-Dette emnet bruker samme pensum som sok-1010. 
+Kapittler som er pensum: 1-12 & 14 & 15 & 19.
 
 [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
 
