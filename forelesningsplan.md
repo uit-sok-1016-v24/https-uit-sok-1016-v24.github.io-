@@ -1,20 +1,23 @@
 {% include navbar.html %}{% include top-box.html %}
-# Forelesningsplan  
-
-**Informasjonsmøte** om sok-xxxx finner sted i xx.xx.xx kl xx:xx    
+# Kapittel resurser
 
 
-## Eksempel på tabell for forelesningsplan
-
-| Tid            | Sted            | Tema               |
-|----------------|-----------------|--------------------|
-|xx.xx  xx:xx    |Tromsø           |git                 |
-|xx.xx  xx:xx    |Tromsø           |python              |
-|xx.xx  xx:xx    |Tromsø           |R                   |
-|xx.xx  xx:xx    |Tromsø           |Samfunnsøkonomi     |
-   
-
-
-
-
-
+| Kapittel         | Undervisnings video                                                  | Modell gjennomgang          | R gjennomgang | R kode | 
+|----------------|-----------------|--------------------| -----------------|--------------------|
+|Kapittel 1      |[Kap 1](https://vimeo.com/501610409/eea0f3307d){:target="blank"}       |          | ||
+|Kapittel 2      |[Kap 2 del1](https://vimeo.com/501613904/81d7c4e525){:target="blank"}, [Kap 2 del2](https://vimeo.com/504638984/efa8a23ab1){:target="blank"}      |          | ||
+|Kapittel 3      |[Kap 3](https://vimeo.com/506599392/df28453a9f)      |          | ||
+|Kapittel 4      |[Kap 4](https://vimeo.com/506890802/860c32c661){:target="blank"}    |          | ||
+|Kapittel 5      |[Kap 5](https://www.youtube.com/watch?v=M52pOMBhG3Y&ab_channel=ThomasGressnes){:target="blank"}     |          | ||
+|Kapittel 6      |[Kap 6 del 1](https://www.youtube.com/watch?v=D-sqDgVsTz4&ab_channel=ThomasGressnes)   |          | ||
+|Kapittel 7      |[Kap 7](https://www.youtube.com/watch?v=CcYR4bmBnw8&ab_channel=ThomasGressnes){:target="blank"}   |          | ||
+|Kapittel 8      |[Kap 8](https://www.youtube.com/watch?v=mSpzll5Vo14&ab_channel=ThomasGressnes){:target="blank"}    |          | ||
+|Kapittel 9      |[Kap 9](https://www.youtube.com/watch?v=DeEmBjPoyvA&t=1083s&ab_channel=ThomasGressnes){:target="blank"}    |          | ||
+|Kapittel 10     |[Kap 10](https://www.youtube.com/watch?v=WtHeoBtZdII&list=PLBUCAkNzSCdAKBWxZgSz3Rw_Kv9gk6MqC&index=18&t=378s&ab_channel=ThomasGressnes){:target="blank"}, [Kap 10](https://www.youtube.com/watch?v=QAe5s51A1b0&list=PLBUCAkNzSCdAKBWxZgSz3Rw_Kv9gk6MqC&index=20&ab_channel=ThomasGressnes){:target="blank"}, [Kap 10](https://youtu.be/caxVOnL8OnQ?si=lr4u5128VUYy0O2z)     |          | ||
+|Kapittel 11     |    |          | ||
+|Kapittel 12     |Kap 12](https://www.youtube.com/watch?v=caxVOnL8OnQ&list=PLBUCAkNzSCdAKBWxZgSz3Rw_Kv9gk6MqC&index=21&ab_channel=ThomasGressnes){:target="blank"}      |          | ||
+|Kapittel 13     |    |          | ||
+|Kapittel 14     |    |          | ||
+|Kapittel 15     |     |          | ||
+|Kapittel 16     | |          | ||
+|Kapittel 19     |    |          | ||
