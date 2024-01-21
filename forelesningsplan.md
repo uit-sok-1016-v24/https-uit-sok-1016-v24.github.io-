@@ -13,7 +13,7 @@
 |Kapittel 7      |[Kap 7](https://www.youtube.com/watch?v=CcYR4bmBnw8&ab_channel=ThomasGressnes){:target="blank"}   |          | ||
 |Kapittel 8      |[Kap 8](https://www.youtube.com/watch?v=mSpzll5Vo14&ab_channel=ThomasGressnes){:target="blank"}    |          | ||
 |Kapittel 9      |[Kap 9](https://www.youtube.com/watch?v=DeEmBjPoyvA&t=1083s&ab_channel=ThomasGressnes){:target="blank"}    |          | ||
-|Kapittel 10     |[Kap 10](https://www.youtube.com/watch?v=WtHeoBtZdII&list=PLBUCAkNzSCdAKBWxZgSz3Rw_Kv9gk6MqC&index=18&t=378s&ab_channel=ThomasGressnes){:target="blank"}, [Kap 10](https://www.youtube.com/watch?v=QAe5s51A1b0&list=PLBUCAkNzSCdAKBWxZgSz3Rw_Kv9gk6MqC&index=20&ab_channel=ThomasGressnes){:target="blank"}, [Kap 10](https://youtu.be/caxVOnL8OnQ?si=lr4u5128VUYy0O2z)     |          | ||
+|Kapittel 10     |[Kap 10 del 1](https://www.youtube.com/watch?v=WtHeoBtZdII&list=PLBUCAkNzSCdAKBWxZgSz3Rw_Kv9gk6MqC&index=18&t=378s&ab_channel=ThomasGressnes){:target="blank"}, [Kap 10 del 2](https://www.youtube.com/watch?v=QAe5s51A1b0&list=PLBUCAkNzSCdAKBWxZgSz3Rw_Kv9gk6MqC&index=20&ab_channel=ThomasGressnes){:target="blank"}, [Kap 10 del 3](https://youtu.be/caxVOnL8OnQ?si=lr4u5128VUYy0O2z)     |          | ||
 |Kapittel 11     |    |          | ||
 |Kapittel 12     |[Kap 12](https://www.youtube.com/watch?v=caxVOnL8OnQ&list=PLBUCAkNzSCdAKBWxZgSz3Rw_Kv9gk6MqC&index=21&ab_channel=ThomasGressnes){:target="blank"}      |          | ||
 |Kapittel 13     |    |          | ||
