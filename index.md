@@ -7,14 +7,12 @@ Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, fagl�
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
 - [Undervisningsplan](undervisningsplan.md){:target="blank"}
+- [Kapittel resurser](forelesningsplan.md){:target="blank"}
 - [Seminarplan](seminarplan.html){:target="blank"}
-- [Innleveringsplan](innleveringer.html){:target="blank"}   
-
 
 [Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
 
 Universitetets egne kursbeskrivelse finner du på UiT sin hjemme side link [her](https://uit.no/utdanning/aktivt/emne/SOK-1016).
-
 
 ## Kursbeskrivelse 
 Kurset skal gi en innføring i grunnleggende makroøkonomi. Karakteren fastsettes gjennom en mappeevaluering. Gjennomføringen av emnet er 
