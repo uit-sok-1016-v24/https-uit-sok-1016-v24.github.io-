@@ -2,7 +2,7 @@
 # Kapittel resurser
 
 
-| Kapittel         | Undervisnings video                                                  | Modell gjennomgang          | R gjennomgang | R kode | 
+| Kapittel         | Undervisnings video                                                  | Modell gjennomgang          | R resurser | Ekstra | 
 |----------------|-----------------|--------------------| -----------------|--------------------|
 |Kapittel 1      |[Kap 1](https://vimeo.com/501610409/eea0f3307d){:target="blank"}       |          | ||
 |Kapittel 2      |[Kap 2 del1](https://vimeo.com/501613904/81d7c4e525){:target="blank"}, [Kap 2 del2](https://vimeo.com/504638984/efa8a23ab1){:target="blank"}      |          | ||
