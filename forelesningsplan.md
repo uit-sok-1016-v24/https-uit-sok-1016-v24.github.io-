@@ -20,4 +20,4 @@
 |Kapittel 14     |    |          | ||
 |Kapittel 15     |     |          | ||
 |Kapittel 16     | |          | ||
-|Kapittel 19     |    |          | ||
+|Kapittel 19     |    |          | |[Solow](Solow1.pdf)|
