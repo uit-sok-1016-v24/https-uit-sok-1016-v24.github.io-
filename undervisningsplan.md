@@ -14,7 +14,7 @@ SØ = Stein E. Østbye, EH = Eirik E. Heen, IHB = Ida Marie Hansen Bergland
 
 | Uke | Dag | Tid | Sted | Type | Avholdes av| Tema | Video | Resurser |
 |-----------|---|--------|--------|------------|----------|----------|------|-------|
-| Uke 3  | Fredag |19.01 10:15-12:00 | HHT 01.202 | F1 | SØ & EH | Introduksjon, modeller og matematikk |  | [Matte hefte](https://github.com/uit-sok-1016-v24/uit-sok-1016-v24.github.io/blob/main/hefte.pdf) |
+| Uke 3  | Fredag |19.01 10:15-12:00 | HHT 01.202 | F1 | SØ & EH | Introduksjon, modeller og matematikk |  | [Matte hefte](hefte.pdf), [Slides](Sok 1016 Forelesning 1.pptx), [Print](OldSchool.pdf) |
 | Uke 4  | Mandag |22.01 14:15-16:00 | HHT 01.202 | F2 | SØ  |Kapittel 2 & 19: Nasjonalregnskapet og Økonomisk aktivitet på lang sikt | [Kap 1](https://vimeo.com/501610409/eea0f3307d){:target="blank"}   [Kap 2 del1](https://vimeo.com/501613904/81d7c4e525){:target="blank"}  [Kap 2 del2](https://vimeo.com/504638984/efa8a23ab1){:target="blank"} | |
 | Uke 5  | Tirsdag|30.01 14:15-16:00 | HHT 02.218 | S1 | IHB | Kapittel 2 || 
 | Uke 5  | Fredag |02.02 10:15-12:00 | HHT 01.202 |  | Selvstudie |Kapittel 3 og 4: Produksjon, tilbud, etterspørsel og konsum |  [Kap 3](https://vimeo.com/506599392/df28453a9f){:target="blank"} [Kap 4](https://vimeo.com/506890802/860c32c661){:target="blank"}| |
