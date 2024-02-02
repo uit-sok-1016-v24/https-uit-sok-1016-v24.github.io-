@@ -74,4 +74,11 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:
 
 ## Innlevering og eksamen  
 
-Eksamen består av mappe evaluering. Dette betyr at karakteren blir bedømt av flere innleveringer/mapper iløpet av semesteret.
+Eksamen består av mappe evaluering. Dette betyr at karakteren blir bedømt av flere innleveringer/mapper iløpet av semesteret. I dette emnet blir det to mappe innleveringere. 
+
+### Mappe 1
+**Tidspunkt:** fredag 5. april – fredag 12. april. 
+
+### Mappe 2
+**Tidspunkt:** Torsdag 06. juni – onsdag 12. juni. 
+
