@@ -12,7 +12,7 @@ F = forelesninger, S = seminar
 SØ = Stein E. Østbye, EH = Eirik E. Heen, IHB = Ida Marie Hansen Bergland
 
 
-| Uke | Dag | Tid | Sted | Type | Avholdes av| Tema | Video | Resurser |
+| Uke | Dag | Tid | Sted | Type | Avholdes av| Tema | Video | Ressurser |
 |-----------|---|--------|--------|------------|----------|----------|------|-------|
 | Uke 3  | Fredag |19.01 10:15-12:00 | HHT 01.202 | F1 | SØ & EH | Introduksjon, modeller og matematikk |  | [Matte hefte](hefte.pdf), [Slides](Sok_1016_Forelesning_1.pptx), [Print](OldSchool.pdf) |
 | Uke 4  | Mandag |22.01 14:15-16:00 | HHT 01.202 | F2 | SØ  |Kapittel 2 & 19: Nasjonalregnskapet og Økonomisk aktivitet på lang sikt | [Kap 1](https://vimeo.com/501610409/eea0f3307d){:target="blank"}   [Kap 2 del1](https://vimeo.com/501613904/81d7c4e525){:target="blank"}  [Kap 2 del2](https://vimeo.com/504638984/efa8a23ab1){:target="blank"} | |
