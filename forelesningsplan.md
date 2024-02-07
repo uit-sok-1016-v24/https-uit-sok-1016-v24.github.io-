@@ -1,5 +1,5 @@
 {% include navbar.html %}{% include top-box.html %}
-# Kapittel resurser
+# Kapittel ressurser
 
 
 | Kapittel         | Undervisnings video                                                  | Modell gjennomgang          | R resurser | Ekstra | 
