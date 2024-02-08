@@ -32,9 +32,12 @@ SØ = Stein E. Østbye, EH = Eirik E. Heen, IHB = Ida Marie Hansen Bergland
 | Uke 12 | Mandag |18.03 14:15-16:00 | HHT 02.218 | S7 | IHB | Kapittel 12 || 
 | Uke 12 | Fredag |22.03 10:15-12:00 | HHT 01.202 | F9 | SØ  |Kapittel 14: Valuta og valutamarked |   | |
 | Uke 14 | Fredag |05.04 10:15-12:00 | HHT 01.202 | F10| SØ  |Kapittel 15: Internasjonal mobilitet |   | |
+| Uke 14 | Fredag |05.04 14:00 |  | |  |Mappe 1 utlevering |   | |
 | Uke 15 | Mandag |08.04 12:15-14:00 | HHT 02.218 | S8 | IHB | Kapittel 14 & 15 || 
 | Uke 15 | Torsdag|11.04 14:15-16:00 | HHT 01.202 | F11| SØ  | Kapittel 16: Økonomisk aktivitet i en åpen økonomi |   | |
+| Uke 15 | Fredag |12.04 14:00 |  | |   | Mappe 1 innlevering |   | |
 | Uke 16 | Fredag |19.04 10:15-12:00 | HHT 01.202  |  |  | Ekstra |   | |
 | Uke 17 | Torsdag|25.04 12:15-14:00 | HHT 01.202 |  |  | Ekstra |   | |
-| Uke 24 | Onsdag |12.06 14:00 | |   Mappe vurdering |
+| Uke 23 | Torsdag|06.06 14:00 | |   Mappe 2 utlevering |
+| Uke 24 | Onsdag |12.06 14:00 | |   Mappe 2 innlevering |
 
