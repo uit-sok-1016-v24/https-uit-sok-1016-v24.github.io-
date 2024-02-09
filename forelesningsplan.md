@@ -7,7 +7,7 @@
 |Kapittel 1      |[Kap 1](https://vimeo.com/501610409/eea0f3307d){:target="blank"}       |          | ||
 |Kapittel 2      |[Kap 2 del1](https://vimeo.com/501613904/81d7c4e525){:target="blank"}, [Kap 2 del2](https://vimeo.com/504638984/efa8a23ab1){:target="blank"}      |          | ||
 |Kapittel 3      |[Kap 3](https://vimeo.com/506599392/df28453a9f)      |          | ||
-|Kapittel 4      |[Kap 4](https://vimeo.com/506890802/860c32c661){:target="blank"}    |          | ||
+|Kapittel 4      |[Kap 4](https://vimeo.com/506890802/860c32c661){:target="blank"}    |          | |[Realrente](RealrenteKpt4.pdf) |
 |Kapittel 5      |[Kap 5](https://www.youtube.com/watch?v=M52pOMBhG3Y&ab_channel=ThomasGressnes){:target="blank"}     |          | | [For dine kloke ord](For_dine_kloke_ord.pdf) |
 |Kapittel 6      |[Kap 6 del 1](https://www.youtube.com/watch?v=D-sqDgVsTz4&ab_channel=ThomasGressnes)   |          | ||
 |Kapittel 7      |[Kap 7](https://www.youtube.com/watch?v=CcYR4bmBnw8&ab_channel=ThomasGressnes){:target="blank"}   |          | ||
