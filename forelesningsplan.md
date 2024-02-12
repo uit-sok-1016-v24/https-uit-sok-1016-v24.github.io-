@@ -9,8 +9,8 @@
 |Kapittel 3      |[Kap 3](https://vimeo.com/506599392/df28453a9f)      |          | ||
 |Kapittel 4      |[Kap 4](https://vimeo.com/506890802/860c32c661){:target="blank"}    |          | |[Realrente](RealrenteKpt4.pdf) |
 |Kapittel 5      |[Kap 5](https://www.youtube.com/watch?v=M52pOMBhG3Y&ab_channel=ThomasGressnes){:target="blank"}     |          | | [For dine kloke ord](For_dine_kloke_ord.pdf) |
-|Kapittel 6      |[Kap 6 del 1](https://www.youtube.com/watch?v=D-sqDgVsTz4&ab_channel=ThomasGressnes)   |          | ||
-|Kapittel 7      |[Kap 7](https://www.youtube.com/watch?v=CcYR4bmBnw8&ab_channel=ThomasGressnes){:target="blank"}   |          | ||
+|Kapittel 6      |[Kap 6 del 1](https://www.youtube.com/watch?v=D-sqDgVsTz4&ab_channel=ThomasGressnes)   |          | |[For dine kloke ord II](Dine_kloke_ord_II.pdf)|
+|Kapittel 7      |[Kap 7](https://www.youtube.com/watch?v=CcYR4bmBnw8&ab_channel=ThomasGressnes){:target="blank"}   |          | |[For dine kloke ord III](Dine_kloke_ord_III.pdf)|
 |Kapittel 8      |[Kap 8](https://www.youtube.com/watch?v=mSpzll5Vo14&ab_channel=ThomasGressnes){:target="blank"}    |          | ||
 |Kapittel 9      |[Kap 9](https://www.youtube.com/watch?v=DeEmBjPoyvA&t=1083s&ab_channel=ThomasGressnes){:target="blank"}    |          | ||
 |Kapittel 10     |[Kap 10 del 1](https://www.youtube.com/watch?v=WtHeoBtZdII&list=PLBUCAkNzSCdAKBWxZgSz3Rw_Kv9gk6MqC&index=18&t=378s&ab_channel=ThomasGressnes){:target="blank"}, [Kap 10 del 2](https://www.youtube.com/watch?v=QAe5s51A1b0&list=PLBUCAkNzSCdAKBWxZgSz3Rw_Kv9gk6MqC&index=20&ab_channel=ThomasGressnes){:target="blank"}, [Kap 10 del 3](https://youtu.be/caxVOnL8OnQ?si=lr4u5128VUYy0O2z)     |          | ||
