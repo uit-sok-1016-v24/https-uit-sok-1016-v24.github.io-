@@ -1,0 +1,89 @@
+---
+title: "Prøveeksamen sok-1016"
+subtitle: "Vår 2023"
+date: "`r format(Sys.Date(), '%d.%m.%Y')`"
+format: pdf
+editor: visual
+description: "Presentasjon av ikke obligatorisk prøveeksamen for sok-1016"
+---
+
+```{r Start up, include=FALSE}
+# Start up #####
+rm(list = ls()) # Tommer listen
+Sys.setlocale(locale='no_NB.utf8') # Setter språk til norsk
+library(tidyverse) # lasteter inn tidyverse, som også laster inn dplyr, ggplot2, readr og litt til
+library(owidR) # laster inn pakken "Our world in data"
+
+library(bbplot) # Kan lage plot som 
+
+```
+
+Stein Østbye & Eirik Heen, vår 2024. Oppklarende spørsmål kan sendes til: eirik.e.heen\@uit.no.
+
+# Instruksjoner
+
+Velkommen til prøveeksamen i makroøkonomi! Formålet med denne prøveeksamenen er å gi dere en verdifull mulighet til å forberede dere til den endelige eksamen. Gjennom denne prosessen vil dere kunne få en forståelse av eksamensformatet, type spørsmål dere kan forvente, og hvordan dere kan strukturere svarene deres for best mulig resultat.
+
+## Innlevering og Tilbakemelding
+
+-   **Innleveringsfrist:** For å kvalifisere for tilbakemelding, må prøveeksamen leveres innen tidsristen fristen. Innleveringer etter fristen vil ikke bli vurdert for tilbakemelding.
+
+    -   Innleveringsfrist: 22. Mars
+
+    -   Innleveres på epost: eirik.e.heen\@uit.no
+
+-   **Format på Innlevering:** Alle deltakere forventes å levere inn arbeidet sitt i to formater:
+
+    -   En PDF-fil av det fullstendige arbeidet.
+
+    -   Den tilhørende Quarto-filen (.qmd) som ble brukt for å generere PDF-en. Dette er for å bekrefte forståelsen og kompetansen i å bruke Quarto for vitenskapelig dokumentasjon.
+
+## **Krav til Løsningen**
+
+For teoretiske besvarelser av oppgaver, forventes det at dere presenterer svarene deres gjennom en systematisk tilnærming for å sikre at dere får vist en omfattende forståelse og demonstrasjon av emnet:
+
+**Motivasjon:** Motiver valg av modell og sett opp viktige forutsetninger for modellen. Presenter modellen matematisk, forklar symbolene, og beskriv med ord relasjonene som inngår. Inkluder hva som er endogent og eksogent. 
+
+**Matematisk Analyse:** Bruk modellen for å besvare spørsmålene i oppgave. Dette skal gjøres analytisk ved å løse modellen som et likningssystem.
+
+**Grafisk Fremstilling:** Visuell representasjon av dine matematiske konklusjoner gjennom diagrammer, grafer, eller figurer. Dette bidrar til å illustrere forhold og dynamikker på en klar og forståelig måte.
+
+**Intuitiv Forklaring:** Til slutt, gi en intuitiv forklaring av dine resultater. Dette innebærer å forklare de økonomiske prinsippene og logikken bak dine matematiske og grafiske analyser på en måte som er lett å forstå, selv for de uten spesialisert kunnskap.
+
+## **Kildehenvisninger**
+
+
+Det er viktig å kreditere alle kilder dere bruker i løpet av arbeidet deres. Dette inkluderer både direkte sitater og parafrasering av ideer. Korrekt sitat- og referansepraksis er essensielt for akademisk integritet og bidrar til troverdigheten av arbeidet deres og reduserer faren for å bli anklaget for plagiering. Dere trenger ikke ha referanser til pensumboken, forelesninger eller seminar.
+
+# Oppgave 1
+
+Covid-19-pandemien hadde en betydelig innvirkning på verdensøkonomien, og førte til plutselige og dype nedgangskonjunkturer i mange land, inkludert Norge, i 2020. Effekten av pandemien varierte betydelig fra land til land, avhengig av en rekke faktorer som økonomisk struktur, helseberedskap, og myndighetenes respons.
+
+Bruk datasettet som er gjort tilgjengelig nedenfor for å analysere og sammenligne nedgangskonjunkturen knyttet til pandemien i Norge med andre land, regioner, eller grupper av land. Ditt mål er å beskrive eventuelle likheter eller forskjeller. Dernest å identifisere og forklare mulige underliggendeårsaker.
+
+
+```{r, include=FALSE}
+# Hvis dere ikke har WDI pakken instalert
+# install.packages("WDI")
+library(WDI) # Pakker for å laste ned data fra World in data
+
+
+# Download GDP per capita data for all countries from 2019 to the most recent year available
+gdp_data <- WDI(indicator = "NY.GDP.PCAP.CD", start = 2010, end = 2022)
+
+gdp_data <- gdp_data %>%
+  rename("gdp"= "NY.GDP.PCAP.CD"  )
+
+
+```
+
+# Oppgave 2
+
+I lys av den grunnleggende Keynes-modellen, er målet med denne oppgaven å utforske hvordan et land effektivt kan anvende ekspansiv finanspolitikk, spesifikt gjennom økning i offentlige utgifter, for å stimulere vekst i brutto nasjonalprodukt (BNP).
+
+# Oppgave 3
+
+Covid-19 pandemien har hatt omfattende økonomiske konsekvenser globalt, inkludert i Norge. Denne oppgaven utfordrer deg til å anvende IS-PK-RR modellen for å forstå og analysere disse effektene med et spesiell fokus på norsk økonomi.
+
+Bruk IS-PK-RR modellen til å analysere effekter av Covid-19 epidemien på norsk økonomi. Drøft implikasjoner for pengepolitikk og finanspolitikk. Tips: Modellen er presentert i kapittel 9 i læreboken. Se også kapittel 4 (IS) og kapittel 8 (PK).
+
