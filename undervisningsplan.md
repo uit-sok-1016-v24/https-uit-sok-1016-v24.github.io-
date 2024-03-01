@@ -25,12 +25,14 @@ SØ = Stein E. Østbye, EH = Eirik E. Heen, IHB = Ida Marie Hansen Bergland
 | Uke 8  | Fredag |23.02 10:15-12:00 | HHT 01.202 | F5 | SØ  |Kapittel 7 og 8: Arbeidsmarked, lønnsdannelse, lønnsvekst og arbeidsledighet |  [Kap 7](https://www.youtube.com/watch?v=CcYR4bmBnw8&ab_channel=ThomasGressnes){:target="blank"} [Kap 8](https://www.youtube.com/watch?v=mSpzll5Vo14&ab_channel=ThomasGressnes){:target="blank"} | |
 | Uke 9  | Tirsdag|27.02 10:15-12:00 | HHT 02.218 | S4 | IHB | Kapittel 7 & 8 || 
 | Uke 9  | Fredag |01.03 10:15-12:00 | HHT 01.202 | F6 | SØ  |Kapittel 9 & 10: Rente, pengepolitikk, og finanskriser |  [Video del1](https://www.youtube.com/watch?v=DeEmBjPoyvA&t=1083s&ab_channel=ThomasGressnes){:target="blank"} [Video del2](https://www.youtube.com/watch?v=WtHeoBtZdII&list=PLBUCAkNzSCdAKBWxZgSz3Rw_Kv9gk6MqC&index=18&t=378s&ab_channel=ThomasGressnes){:target="blank"}  [Video del3](https://www.youtube.com/watch?v=QAe5s51A1b0&list=PLBUCAkNzSCdAKBWxZgSz3Rw_Kv9gk6MqC&index=20&ab_channel=ThomasGressnes){:target="blank"} | |
+| Uke 9 | Fredag | 01.03 | |||| Utlevering prøveeksamen | [Prøveeksamen]("Prøveeksamen sok-1016 v23.qmd") |
 | Uke 10 | Mandag |04.03 12:15-14:00 | HHT 02.218 | S5 | IHB | Kapittel 9 || 
 | Uke 10 | Fredag |08.03 10:15-12:00 | HHT 01.202 | F7 | SØ  |Kapittel 11: Penger og inflasjon |   | |
 | Uke 11 | Mandag |11.03 14:15-16:00 | HHT 02.218 | S6 | IHB | Kapittel 10 & 11 || 
 | Uke 11 | Tirsdag|12.03 12:15-14:00 | HHT 01.202 | F8 | SØ  |Kapittel 12: Finanspolitikk |  [Video](https://www.youtube.com/watch?v=caxVOnL8OnQ&list=PLBUCAkNzSCdAKBWxZgSz3Rw_Kv9gk6MqC&index=21&ab_channel=ThomasGressnes){:target="blank"} | |
 | Uke 12 | Mandag |18.03 14:15-16:00 | HHT 02.218 | S7 | IHB | Kapittel 12 || 
 | Uke 12 | Fredag |22.03 10:15-12:00 | HHT 01.202 | F9 | SØ  |Kapittel 14: Valuta og valutamarked |   | |
+| Uke 12 | Fredag |22.03 | |||| Innlevering prøveeksamen |  |
 | Uke 14 | Fredag |05.04 10:15-12:00 | HHT 01.202 | F10| SØ  |Kapittel 15: Internasjonal mobilitet |   | |
 | Uke 14 | Fredag |05.04 14:00 |  | |  |Mappe 1 utlevering |   | |
 | Uke 15 | Mandag |08.04 12:15-14:00 | HHT 02.218 | S8 | IHB | Kapittel 14 & 15 || 
