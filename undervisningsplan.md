@@ -5,7 +5,7 @@
 
 **Undervisnings typer**
 
-F = forelesninger, S = seminar
+F = forelesninger, S = seminar, D = "datalab"
 
 **Underviser**
 
@@ -30,6 +30,7 @@ SØ = Stein E. Østbye, EH = Eirik E. Heen, IHB = Ida Marie Hansen Bergland
 | Uke 10 | Fredag |08.03 10:15-12:00 | HHT 01.202 | F7 | SØ  |Kapittel 11: Penger og inflasjon |   | |
 | Uke 11 | Mandag |11.03 14:15-16:00 | HHT 02.218 | S6 | IHB | Kapittel 10 & 11 || 
 | Uke 11 | Tirsdag|12.03 12:15-14:00 | HHT 01.202 | F8 | SØ  |Kapittel 12: Finanspolitikk |  [Video](https://www.youtube.com/watch?v=caxVOnL8OnQ&list=PLBUCAkNzSCdAKBWxZgSz3Rw_Kv9gk6MqC&index=21&ab_channel=ThomasGressnes){:target="blank"} | |
+| Uke 12 | Mandag |18.03 12:15-14:00 | HHT 02.218 | D1 | EEH | Datavitenskap ||
 | Uke 12 | Mandag |18.03 14:15-16:00 | HHT 02.218 | S7 | IHB | Kapittel 12 || 
 | Uke 12 | Fredag |22.03 10:15-12:00 | HHT 01.202 | F9 | SØ  |Kapittel 14: Valuta og valutamarked |   | |
 | Uke 12 | Fredag |22.03 | |||| Innlevering prøveeksamen |  |
